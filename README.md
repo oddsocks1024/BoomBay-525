@@ -106,5 +106,5 @@ Please see the images in addition to these instructions.
  
 ## Support Me
 * [My Projects](https://projects.amiga-hardware.com) - Donate on this page
-* [Order the BoomBay PCB]()
-* [Order the BoomBay Case]()
+* [Order the BoomBay PCB](https://www.pcbway.com/project/shareproject/BoomBay_525_Speakers_in_your_5_25_Drive_Bay_84e0584a.html)
+* [Order the BoomBay Case](https://www.pcbway.com/project/shareproject/BoomBay_525_Case_Speakers_in_your_5_25_Drive_Bay_3b4b11f0.html)
